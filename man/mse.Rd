@@ -2,7 +2,7 @@
 % Please edit documentation in R/mse.R
 \name{mse}
 \alias{mse}
-\title{Compute the MSE between pseudotime estimates and true timepoints.}
+\title{Compute the mean squared error between pseudotime estimates and true timepoints.}
 \usage{
 mse(pseudotime, truetime)
 }
@@ -15,5 +15,5 @@ mse(pseudotime, truetime)
 The MSE between pseudotime and truetime.
 }
 \description{
-Compute the MSE between pseudotime estimates and true timepoints.
+Compute the mean squared error between pseudotime estimates and true timepoints.
 }

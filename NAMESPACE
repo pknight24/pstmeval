@@ -2,6 +2,7 @@
 
 export(distance_correlation)
 export(lasso_coef_correlation)
+export(mae)
 export(mse)
 export(pos)
 export(rf_importance_correlation)
