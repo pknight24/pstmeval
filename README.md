@@ -1,1 +1,1 @@
-Install with `devtools::install_git("git://gitlab.com/plbknight/pstmeval.git")`
+Install with `devtools::install_github("pknight24/pstmeval")`
